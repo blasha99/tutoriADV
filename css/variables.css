@@ -1,0 +1,40 @@
+:root {
+    /* Tema dark*/
+    --fondo-principal: #3b3939;
+    --fondo-header: #1f1d1d;
+    --fondo-footer: #161515;
+
+    --color-1: #ffffff;
+    --color-2: #b4b4b4;
+    --color-3: #ff0000;
+
+    /* Tema dark 2 */
+    --fondo-principal-dark2: #818181;
+    --fondo-header-dark2: #585858;
+    --fondo-footer-dark2: #505050;
+
+    --color-1-dark2: #ffffff;
+    --color-2-dark2: #b4b4b4;
+    --color-3-dark2: #ff0000;
+
+/* Tema medio rojo */
+
+    /* --fondo-principal: #790404;
+    --fondo-header: #380303;
+    --fondo-footer: #220202;
+
+    --color-1: #ffffff;
+    --color-2: #b11515;
+    --color-3: red; */
+
+/* Tema claro */
+    /* --fondo-principal: #e0dede;
+    --fondo-header: #ffffff;
+    --fondo-footer: #cecece;
+
+    --color-1: #1f1f1f;
+    --color-2: #000000;
+    --color-3: red; */
+
+    --color-icono: #423d3d;
+}
